@@ -1,5 +1,9 @@
 # HackTheBox-Meow
+
+
 A quick guide on the first HTB machine in the starting point path.
+
+https://github.com/EwanDouglas/HackTheBox-Meow/blob/main/Meow.md
 
 My first step in this situation is to ping my target to make sure everything is set up correctly. 
 
