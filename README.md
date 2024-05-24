@@ -16,4 +16,4 @@ The HackTheBox home lab provides a safe and controlled environment for practicin
 - **Documentation**: Comprehensive documentation on setting up the home lab, configuring networking, and best practices for effective learning and practice.
 
 
-##Starting Point 1: [Meow](https://github.com/EwanDouglas/HackTheBox-Meow/blob/main/Meow.md).
+## Starting Point 1: [Meow](https://github.com/EwanDouglas/HackTheBox-Meow/blob/main/Meow.md).
