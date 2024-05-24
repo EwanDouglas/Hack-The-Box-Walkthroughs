@@ -1,4 +1,6 @@
-# HackTheBox
+## Hack The Box Walkthroughs
 
-This site was built using [Meow](https://github.com/EwanDouglas/HackTheBox-Meow/blob/main/Meow.md).
+This is a repository to document my learning on hackthebox.
+
+Starting Point 1: [Meow](https://github.com/EwanDouglas/HackTheBox-Meow/blob/main/Meow.md).
 
