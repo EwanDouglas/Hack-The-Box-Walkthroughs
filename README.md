@@ -5,7 +5,7 @@ My first step in this situation is to ping my target to make sure everything is 
 
 <img src="https://i.imgur.com/tKTIRcI.png" height="80%" width="80%" alt="aaa"/>
 
-Next I will perform a scan with Nmap, the extremely popular network mapping tool. There are so many options for an Nmap scan, but for this one I will 
+Next I will perform a scan with Nmap, the extremely popular network mapping tool. There are so many options for an Nmap scan, but for this one I will use an agressive scan.
 
 <img src="https://i.imgur.com/yi3Esja.png" height="80%" width="80%" alt="aaa"/>
 
